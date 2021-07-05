@@ -9,6 +9,10 @@ Personal Vue.js Amazing List
 * [easytable](https://github.com/Happy-Coding-Clans/vue-easytable) — Table / API viewer with customizations
 * [revogrid](https://revolist.github.io/revogrid/) — Rich tables with editing
 
+## Editors wysiwyg
+
+* [tiptap](https://www.tiptap.dev/) — Fully customizable wysiwyg
+
 ## Experemental
 
 * [vue-dragging](https://github.com/hilongjw/vue-dragging) — Drag to sort list
