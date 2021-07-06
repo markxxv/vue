@@ -11,7 +11,7 @@ Personal Vue.js Amazing List
 
 ## Editors wysiwyg
 
-* [tiptap](https://www.tiptap.dev/) — Fully customizable wysiwyg
+* [tiptap](https://leecason.github.io/element-tiptap/) — Fully customizable wysiwyg
 
 ## Experemental
 
