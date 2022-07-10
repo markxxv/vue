@@ -15,4 +15,5 @@ Personal Vue.js Amazing List
 
 ## Experemental
 
+* [vue3-smooth-dnd](https://github.com/gilnd/vue3-smooth-dnd) — Drag to sort list with smooth animation
 * [vue-dragging](https://github.com/hilongjw/vue-dragging) — Drag to sort list
