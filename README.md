@@ -7,6 +7,7 @@ Personal Vue.js Amazing List
 * [vue-formulate](https://github.com/wearebraid/vue-formulate) — Forms with hight customization
 * [vue-dd-form](https://github.com/marekmensa/vue-dd-form) — Complex form builder
 * [easytable](https://github.com/Happy-Coding-Clans/vue-easytable) — Table / API viewer with customizations
+* [kalendar](https://github.com/altinselimi/kalendar) — Calendar for week planing
 * [revogrid](https://revolist.github.io/revogrid/) — Rich tables with editing
 
 ## Editors wysiwyg
