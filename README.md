@@ -10,6 +10,10 @@ Personal Vue.js Amazing List
 * [kalendar](https://github.com/altinselimi/kalendar) — Calendar for week planing
 * [revogrid](https://revolist.github.io/revogrid/) — Rich tables with editing
 
+## UI components
+
+* [https://github.com/phphe/he-tree-vue] - Tree View drag and drop editing
+
 ## Editors wysiwyg
 
 * [tiptap](https://github.com/ueberdosis/tiptap) — Fully customizable wysiwyg
